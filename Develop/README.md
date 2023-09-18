@@ -3,7 +3,7 @@
   
   ## Description
   
-  latinos joining the tech industry
+  latin community joining the tech space 
   
   ## Table of Contents
   
@@ -16,11 +16,11 @@
   
   ## Installation
   
-  n/a
+  download
   
   ## Usage
   
-  n/a
+  N/A
   
   ## License
   
@@ -28,11 +28,11 @@
   
   ## Contributing
   
-  n/a
+  free udr
   
   ## Tests
   
-  n/a
+  N/A
   
   ## Questions
   
